@@ -1,0 +1,11 @@
+c:\users\fireeagle\documents\visual studio 2012\Projects\Cursach\Cursach\bin\Debug\Cursach.exe.config
+c:\users\fireeagle\documents\visual studio 2012\Projects\Cursach\Cursach\bin\Debug\Cursach.exe
+c:\users\fireeagle\documents\visual studio 2012\Projects\Cursach\Cursach\bin\Debug\Cursach.pdb
+c:\users\fireeagle\documents\visual studio 2012\Projects\Cursach\Cursach\obj\Debug\Cursach.csprojResolveAssemblyReference.cache
+c:\users\fireeagle\documents\visual studio 2012\Projects\Cursach\Cursach\obj\Debug\Cursach.Generating.resources
+c:\users\fireeagle\documents\visual studio 2012\Projects\Cursach\Cursach\obj\Debug\Cursach.Properties.Resources.resources
+c:\users\fireeagle\documents\visual studio 2012\Projects\Cursach\Cursach\obj\Debug\Cursach.csproj.GenerateResource.Cache
+c:\users\fireeagle\documents\visual studio 2012\Projects\Cursach\Cursach\obj\Debug\Cursach.exe
+c:\users\fireeagle\documents\visual studio 2012\Projects\Cursach\Cursach\obj\Debug\Cursach.pdb
+C:\Users\FireEagle\Documents\Visual Studio 2012\Projects\Cursach\Cursach\obj\Debug\Cursach.ShowGraphs.resources
+C:\Users\FireEagle\Documents\Visual Studio 2012\Projects\Cursach\Cursach\obj\Debug\Cursach.Experiment.resources

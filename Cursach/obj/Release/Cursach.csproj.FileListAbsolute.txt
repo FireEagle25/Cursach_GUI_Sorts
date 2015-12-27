@@ -1,0 +1,10 @@
+C:\Users\FireEagle\Documents\Visual Studio 2012\Projects\Cursach\Cursach\bin\Release\Cursach.exe.config
+C:\Users\FireEagle\Documents\Visual Studio 2012\Projects\Cursach\Cursach\bin\Release\Cursach.exe
+C:\Users\FireEagle\Documents\Visual Studio 2012\Projects\Cursach\Cursach\bin\Release\Cursach.pdb
+C:\Users\FireEagle\Documents\Visual Studio 2012\Projects\Cursach\Cursach\obj\Release\Cursach.Experiment.resources
+C:\Users\FireEagle\Documents\Visual Studio 2012\Projects\Cursach\Cursach\obj\Release\Cursach.Generating.resources
+C:\Users\FireEagle\Documents\Visual Studio 2012\Projects\Cursach\Cursach\obj\Release\Cursach.Properties.Resources.resources
+C:\Users\FireEagle\Documents\Visual Studio 2012\Projects\Cursach\Cursach\obj\Release\Cursach.ShowGraphs.resources
+C:\Users\FireEagle\Documents\Visual Studio 2012\Projects\Cursach\Cursach\obj\Release\Cursach.csproj.GenerateResource.Cache
+C:\Users\FireEagle\Documents\Visual Studio 2012\Projects\Cursach\Cursach\obj\Release\Cursach.exe
+C:\Users\FireEagle\Documents\Visual Studio 2012\Projects\Cursach\Cursach\obj\Release\Cursach.pdb
